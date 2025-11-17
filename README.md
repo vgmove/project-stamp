@@ -21,4 +21,4 @@ The list of available colors is compiled from the "Spot Color" project.
 You can run the script without installation right away by selecting the menu File → Scripts → Other Script, then Illustrator will ask you to specify the location of the file or drag the script file onto the Illustrator window with the mouse.
 
 # Download
-[Last releases](https://github.com/VGmove/ProjectStamp/archive/refs/heads/main.zip).
+[Last releases](https://github.com/vgmove/project-stamp/archive/refs/heads/main.zip). 
