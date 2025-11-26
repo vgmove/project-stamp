@@ -14,8 +14,8 @@ It will be automatically added to the form field. <br>
  <br>
 The list of available colors is compiled from the "Spot Color" project.
 
-
-<img src=".meta/screenshot.png" width="700"/> <br>
+<img src=".meta/screenshot_1.png" width="820"/> <br>
+<img src=".meta/screenshot_2.png" width="820"/> <br>
 
 # Installation
 You can run the script without installation right away by selecting the menu File → Scripts → Other Script, then Illustrator will ask you to specify the location of the file or drag the script file onto the Illustrator window with the mouse.
